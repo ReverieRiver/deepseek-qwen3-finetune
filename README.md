@@ -1,0 +1,1 @@
+This is a finetune of DeepSeek R1-0528 Qwen Distill specialized for roleplay, or at least that's what I'm attempting to do here. Ignore this, I only need it public so I can save the Colab notebook and not lose my progress lol
